@@ -47,8 +47,6 @@ Software Setup
 - Upload the obstacle detection and GPS tracking code to your board.
 - Open the Serial Monitor (9600 baud rate) to check sensor readings.
 
-project look:
-
 [project look](https://github.com/user-attachments/assets/f4d60c4f-d0f6-4052-a23e-fa2388b310e6)
 
 
